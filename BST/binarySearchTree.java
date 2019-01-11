@@ -1,6 +1,3 @@
-/*Pratyusha Thundena
-October 16, 2018
-Lab 7 HW */
 
 
 import java.io.File;
@@ -8,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Lab7 {
+public class binarySearchTree {
 
 	public static void main(String[] args) {
       // read through UPC file 
